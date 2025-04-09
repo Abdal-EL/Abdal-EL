@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm LUCKYINS</h2>
+<h2 align="left">Hi 👋! I'm Abdalrahman</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 <br clear="both">
 <div align="left">
- <img src="https://raw.githubusercontent.com/LUCKYINS/LUCKYINS/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/Abdal-EL/Abdal-EL/output/snake.svg" alt="Snake animation" />
 </div>
 
 
